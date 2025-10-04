@@ -7,7 +7,7 @@ Zone is a modern, fully responsive website project that showcases virtual-realit
 It is built with clean design principles, elegant UI components, and smooth responsiveness across all devices — from desktops to smartphones.
 
 ---
-
+![image](https://raw.githubusercontent.com/AdamKryach/zone/tree/main/screen/Capture%20d%E2%80%99%C3%A9cran%202025-10-04%20133845.png)
 ## ✨ Features
 
 - 🌍 **Modern Design** — sleek, professional, and easy to navigate.  
